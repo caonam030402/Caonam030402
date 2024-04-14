@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cao+Nam!;" />
+    <img src=![description](https://firebasestorage.googleapis.com/v0/b/ecommerce-67575.appspot.com/o/23126126.png?alt=media&token=6057e157-63f1-4d22-b0d2-6096a43ea581)" />
 </h1>
 
 🌍 I'm based in Viet Nam
