@@ -34,7 +34,7 @@
    <img src="https://skillicons.dev/icons?i=react,next,redux,styledcomponents,sass,mui,tailwind,bootstrap" /><br>
    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase,xd,ps,ai,pr,ae" /><br>
 </div>
-<h3 align="center">
+<!-- <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+</h3> -->
  </div>
