@@ -1,9 +1,7 @@
 <div align="center">
-
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Cao+Nam!;" />
 </h1>
-
 🌍 I'm based in Viet Nam
 
 ⚡**I’m a software engineer who can code all day without getting tired. In the past year, I have been very focused on learning web programming. I am very confident that my abilities can meet your requirements.**
