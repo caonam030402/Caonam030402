@@ -27,13 +27,13 @@
 <!-- <p align="center">
   <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p> -->
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,dart" /><br>
    <img src="https://skillicons.dev/icons?i=react,next,redux,styledcomponents,sass,mui,tailwind,bootstrap" /><br>
    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase,xd,ps,ai,pr,ae" /><br>
-</div>
+</div> -->
 <!-- <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3> -->
