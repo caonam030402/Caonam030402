@@ -1,5 +1,3 @@
-![Cao Nam's Picture](caonam.png)
-
 <div align="center">
  <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Cao+Nam!;" />
@@ -24,6 +22,8 @@
   </a>
 </div>
  <br/>
+
+ ![Cao Nam's Picture](caonam.png)
 <!-- <p align="center">
   <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p> -->
